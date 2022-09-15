@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Primeira estrutura da Vic</title>
+        
+    </head>
+    <body>
+        <header>
+            <img src="file:///Users/martinluz/Desktop/AvatarVito%CC%81ria.jpeg" height="100_altura" width="100_largura alt="Foto de Vitória Souza">
+            <h1 id="title">De publi à tech: a transição de carreira de uma designer.</h1>
+        </header>
+        <section>
+            <header>
+                <img src="file:///Users/martinluz/Desktop/CapaVito%CC%81ria.jpg" height="200_altura" width="800_largura alt="Capa da postagem">
+                <h2 class="subtitle">Meu caminho até o design gráfico.</h2>
+            </header>
+            <article>
+                <header>
+                    <h3 class="post_title">E se eu disser que corria de códigos?</h3>
+                </header>
+                <p>
+                    Lá em 2012, no final do último ano do ensino médio, quando eu tinha 17 anos, entrei em um curso de computação gráfica. Era um daqueles de dois anos e meio, com duas aulas semanais.
+O intuito do curso era ensinar a usar os softwares da Adobe. Aprendi a mexer a editar imagens, editar vídeos, criar vetores visuais e… bem, tentei entender o Dreamweaver, programa da Adobe usado na criação de sites naquela época. E foi terrível.. E olha que eu fui uma adolescente que editava HTML -com a base pronta, é claro- para o meu perfil no Tumblr.
+Fiquei no design (e você pode ver meu portfólio clicando <a href="https://www.behance.net/vitcomunica" target="_blank"> aqui</a>) e em 2014 entrei na faculdade para cursar Publicidade e Propaganda, mas 10 anos depois de virar o nariz pra meia dúzia de código, voltei atrás e dei início a uma transição de carreira.
+Aos 27, sem precisar entrar em uma sala de aula duas vezes por semana e estudando de casa, decidi que daqui pra frente trabalharia com tecnologia. Sigo com o mesmo medo que tive aos 17, mas com um pouco mais de esperança de que tudo vai dar certo.
+                </p>
+            </article>
+        </section>
+        <footer>
+            <li><a href="mailto:vitcomunica@gmail.com" target="_blank">E-mail</a></li>
+            <li><a href="tel:+552112345678" target="_blank">Telefone</a></li>
+            <li><a href="https://www.linkedin.com/in/vitoriascl/" target="_blank">LinkedIn</a></li>
+        </footer>
+    </body>
+</html>
